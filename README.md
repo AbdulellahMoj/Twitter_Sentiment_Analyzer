@@ -1,2 +1,4 @@
 # Twitter_Sentiment_Analyzer
- is a tool designed to analyze the sentiment of tweets using synthetic Twitter data. It processes a CSV file containing tweet text, the number of retweets, and the number of replies per tweet. 
+The Twitter Sentiment Analyzer is a tool designed to analyze the sentiment of tweets using synthetic Twitter data. It processes a CSV file containing tweet text, the number of retweets, and the number of replies per tweet. By employing a sentiment classifier, it determines the positivity and negativity of each tweet based on predefined lists of positive and negative words. The tool then calculates a Net Score for each tweet, representing the overall sentiment. Finally, it generates a CSV file with columns for the Number of Retweets, Number of Replies, Positive Score, Negative Score, and Net Score, enabling further analysis. Visual representation of the Net Score versus Number of Retweets can be easily created using Excel or Google Sheets, providing insights into the relationship between tweet sentiment and engagement.
+
+"you will need to upload your own fill"
